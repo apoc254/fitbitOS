@@ -1,0 +1,50 @@
+<svg class="background" >
+  <image href="img/cloudstrifewatch.png" />
+  <g id="clock">
+  <text id="myLabel" class="font"></text>
+  <text id="myLabelShadow" class="font"></text>
+  </g>
+  <text id="currentSteps" class="font">---- /</text>
+  <text id="stepGoal" class="font"></text>
+  <g id="steps">
+  <image class="steps" href="img/stat_steps_solid_24px.png" />
+  </g>
+  <text id="calories" class="font">----</text>
+  <g id="cals">
+  <image class="cals" href="img/stat_cals_solid_24px.png" />
+  </g>
+  <text id="distance" class="font">----</text>
+  <g id="dist">
+  <image class="dist" href="img/stat_dist_solid_24px.png" />
+  </g>
+  <text id="floors" class="font">----</text>
+  <g id="flrs">
+  <image class="flrs" href="img/stat_floors_solid_24px.png" />
+  </g>
+  <text id="active" class="font">----</text>
+  <g id="act">
+  <image class="act" href="img/stat_am_solid_24px.png" />
+  </g>
+  <text id="hrm" class="font"></text>
+  <text id="hrLevel" class="font"></text>
+  <text id="hrmShadow" class="font"></text>
+  <g id="hrms">
+  <image class="hr" href="img/stat_hr_solid_24px.png" />
+  </g>
+  <text id="date" class="font"></text>
+  <text id="dayOfWeek" class="font"></text>
+  <text id="batteryShadow" class="font"></text>
+  <text id="battery" class="font"></text>
+  <g id="bat">
+  <image class="bat" href="img/battery_24px.png" />
+  <rect id="batBar" />
+  </g>
+  <text id="altitude" class="large-value">altitude</text>
+  <g id="alt">
+  <image class="altometer" href="img/stats.png" />
+  </g>
+  <text id="pressure" class="small-value">pressure</text>
+  <g id="prs">
+  <image class="barometer" href="img/stats.png" />
+  </g>
+</svg>
